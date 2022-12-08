@@ -1,5 +1,5 @@
 
-int RED_LED=13;
+int RED_LED=10;
 int YELLOW_LED=12;
 int GREEN_LED=11;
 
